@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "156520305706",
+    "firebase_url": "https://autenticador-e4dee-default-rtdb.firebaseio.com",
+    "project_id": "autenticador-e4dee",
+    "storage_bucket": "autenticador-e4dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156520305706:android:e6f90607a3005aa9bd9f53",
+        "android_client_info": {
+          "package_name": "com.caiqueponjjar.autenticador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156520305706-0m51d6cvh7he50rgmrtgqkbe8sjp4b85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caiqueponjjar.autenticador",
+            "certificate_hash": "cf2222b93b91acb58aac787793e50050e4ea4872"
+          }
+        },
+        {
+          "client_id": "156520305706-qlavq3v7niqb44h20afa9c2o7bc2l99l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW44yv7DmAxzhCGkSrQDSOduX6r24gTE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156520305706-qlavq3v7niqb44h20afa9c2o7bc2l99l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
