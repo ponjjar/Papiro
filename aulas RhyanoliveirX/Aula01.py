@@ -26,6 +26,7 @@ pagamento = int(input("Digite o valor em dinheiro: "))
 resultado = pagamento / nabo
 
 print("Você pode levar: ",int(resultado) ," Nabos")
+
  
 
 
